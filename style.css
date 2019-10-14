@@ -1,0 +1,43 @@
+h1 {color: black}
+body {
+	background-image: url(background.jpg);
+}
+.uvod {background-color: #32b1b8;
+	   border: solid 2px black;
+}
+.naslov {font-size: 35px;
+	    font-family: lemon regular;
+	    padding-left: 650px;
+	    padding-top: 1px; 
+}
+
+.yt {float: right; 
+	border-radius: 10px
+}
+.podnaslov {font-family: lemon regular;
+           padding-left: 360px;
+           padding-bottom: 15px;
+}
+.topnav{
+	background-color: #32b1b8;
+	overflow: hidden;
+}
+.topnav a{
+          float: left;
+          color: black;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+          font-size: 17px;
+          font-family: lemon regular;
+}
+.topnav a:hover{
+	background-color: black;
+	color: #32b1b8;
+}
+.topnav a:active{
+	background-color: white;
+	color: #32b1b8;
+
+
+}
